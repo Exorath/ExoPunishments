@@ -1,2 +1,2 @@
 # ExoPunishments
-Bukkit specific MongoDB punishment system.
+Game punishment backend for MongoDB.
